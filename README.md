@@ -3,8 +3,8 @@
 
 #screenshots
 ![alt text](https://github.com/iammeet071/WorldClockAppApi-FLutter/blob/main/screenshots/3.png) !
-![alt text](https://github.com/iammeet071/WorldClockAppApi-FLutter/blob/main/screenshots/4.png) !
-![alt text](https://github.com/iammeet071/WorldClockAppApi-FLutter/blob/main/screenshots/5.png) !
+![alt text](https://github.com/iammeet071/WorldClockAppApi-FLutter/blob/main/screenshots/4.PNG) !
+![alt text](https://github.com/iammeet071/WorldClockAppApi-FLutter/blob/main/screenshots/5.PNG) !
 
 This project is a starting point for a Flutter application.
 
